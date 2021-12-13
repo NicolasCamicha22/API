@@ -34,7 +34,7 @@ https://www.observatoriopyme.org.ar/la-fundacion/historia-y-actualidad/
 
 ## FrontEnd
 
-* Descargar la aplicacion del repositorio https://gitlab.com/facundogirardi/aplicaciones-interactivas-frontend
+* Descargar la aplicacion del repositorio https://github.com/NicolasCamicha22/API.git
 * En la carpeta del proyecto ejecutar <b>npm install</b>
 * <b>cd</b> aplicaciones-interactivas
 * Luego dar <b>npm start</b>
