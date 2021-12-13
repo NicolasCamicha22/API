@@ -1,0 +1,27 @@
+.main-footer {
+  color: #666;
+  background-color: #232323;
+  padding-top: 5px;
+  position: absolute;
+  bottom: 10px  #232323;
+  width: 87.36%;
+ 
+}
+
+.izquierda{
+  padding:10px;
+  width:100px;
+  margin:40px;
+} 
+
+.medio{
+  padding:10px;
+  width:100px;
+  margin:40px;
+}
+
+.derecha{
+  padding:10px;
+  width:100px;
+  margin:40px;
+}

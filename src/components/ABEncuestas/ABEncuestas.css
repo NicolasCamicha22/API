@@ -1,0 +1,11 @@
+.Cuadrado {
+  padding-top: 30px;
+  padding-left: 30px;
+}
+
+a:link,
+a:visited,
+a:active {
+  text-decoration: none;
+}
+  

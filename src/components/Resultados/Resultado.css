@@ -1,0 +1,51 @@
+.main-resultado {
+    background-color: #232323;
+    display:block;
+    margin:auto; 
+    text-align: center;
+ }
+ 
+ .Cuadrado{
+    border: 1px;
+    display: inline-block;
+    width: auto;
+    margin: 0 40px;
+    text-align: justify;
+ } 
+
+ .BotonGenerar{
+    border: 1px;
+    display: inline-block;
+    width: auto;
+    margin: 0 -10px;
+    text-align: justify;
+ }
+
+ .BotonAtras{
+   border: 1px;
+   display: inline-block;
+   width: auto;
+   margin: 0 20px;
+   text-align: justify;
+}
+
+.block {
+   display: block;
+   width: 100%;
+   border: none;
+   background-color: #5e5656;
+   color: white;
+   padding: 14px 28px;
+   font-size: 16px;
+   cursor: pointer;
+   text-align: center;
+ }
+
+ .block:hover {
+   background-color: #ddd;
+   color: black;
+ }
+
+a:link, a:visited, a:active {
+   text-decoration:none;
+}

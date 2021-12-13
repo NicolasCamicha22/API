@@ -1,0 +1,37 @@
+.main-about {
+    background-color: #232323;
+    display:block;
+    margin:auto; 
+    text-align: center;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow-x: hidden;
+ }
+  
+ .Cuadrado{
+    border: 1px;
+    display: inline-block;
+    width: auto;
+    margin: 0 40px;
+    text-align: justify;
+ }
+
+ .BotonEnviar{
+   border: 1px;
+   display: inline-block;
+   width: auto;
+   margin: 0 10px;
+   text-align: justify;
+}
+
+ .BotonAtras{
+   border: 1px;
+   display: inline-block;
+   width: auto;
+   margin: 0 -10px;
+   text-align: justify;
+}
+
+a:link, a:visited, a:active {
+   text-decoration:none;
+}
