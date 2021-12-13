@@ -1,0 +1,69 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@devexpress/dx-react-chart": "^2.7.1",
+    "@devexpress/dx-react-chart-material-ui": "^2.7.1",
+    "@devexpress/dx-react-core": "^2.7.1",
+    "@formatjs/intl-relativetimeformat": "4.x",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "@progress/kendo-drawing": "^1.9.2",
+    "@progress/kendo-react-pdf": "^3.17.0",
+    "axios": "^0.21.0",
+    "base-shell": "1.x",
+    "github-markdown-css": "4.x",
+    "hooks": "^0.3.2",
+    "intl": "1.x",
+    "intl-locales-supported": "1.x",
+    "material-table": "^1.69.1",
+    "material-ui-shell": "1.x",
+    "mdbreact": "^4.27.0",
+    "notistack": "^1.0.0",
+    "react": "16.x",
+    "react-chartjs-2": "^2.11.1",
+    "react-charts": "^2.0.0-beta.7",
+    "react-custom-date-picker": "^1.2.1",
+    "react-custom-scrollbars": "4.x",
+    "react-dom": "16.x",
+    "react-intl": "4.x",
+    "react-ios-pwa-prompt": "1.x",
+    "react-markdown": "4.x",
+    "react-minimal-pie-chart": "^8.0.1",
+    "react-protected-route-component": "^0.1.1",
+    "react-redux": "7.x",
+    "react-router-dom": "5.x",
+    "react-scripts": "^3.4.4",
+    "react-sweet-progress": "^1.1.2",
+    "react-swipeable-views": "^0.13.9",
+    "react-syntax-highlighter": "^15.3.0",
+    "survey-react": "^1.8.3",
+    "sweetalert2": "^10.10.0",
+    "sweetalert2-react": "^0.8.3",
+    "webpack": "^4.42.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "ie 11",
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
