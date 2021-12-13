@@ -42,7 +42,7 @@ https://www.observatoriopyme.org.ar/la-fundacion/historia-y-actualidad/
 
 ## BackEnd
 
-* El backend de la aplicacion se encuesta en ek siguiente repositorio https://gitlab.com/facundogirardi/aplicaciones-interactivas-backend
+* El backend de la aplicacion se encuesta en ek siguiente repositorio https://github.com/NicolasCamicha22/API.git
 * En la carpeta del proyecto ejecutar <b>npm install</b>
 * <b>cd</b> aplicaciones-interactivas
 * Luego dar <b>npm start</b> o <b>nodemon --exec npm start</b> (Requiere tener instalado el nodemon*) -> Por default se encuentra apuntando a local para cambiar, dirijase a Controller/webServices
